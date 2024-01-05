@@ -40,7 +40,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-9980923226,+91-9900012028
 		devopstrainingblr@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun TechnologiesVINOD</a>
 	</span>
 </div>
 <hr>
